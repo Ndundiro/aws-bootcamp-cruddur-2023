@@ -44,4 +44,7 @@ Created an alarm via CLI. First we created the json file, [alarm_config.json](ht
 ### Create an AWS Budget
 
 Creating budgets with CLI was similar to the alarm creation in that you create the json files with what you want them to do. The [budget.json](https://github.com/Ndundiro/aws-bootcamp-cruddur-2023/blob/main/aws/json/budget.json) file.
+I created a zero spending budget which notifies me when the spend is above $ 0.01. I have created other budgets but keep on deleting because I dont want to exceed 2 budgets in the free tier.
+![my zero spend budget](assets/Budgets.png)
+
 
