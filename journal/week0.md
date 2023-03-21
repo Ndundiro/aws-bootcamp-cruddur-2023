@@ -13,7 +13,7 @@ The administrators permission policy is on the console you just attach.
 ![Administrators user group](assets/Week0_AdminIAM.png)
 
 I created Access keys on the security credentials.
-![Security Credentials](assets/Week0_IAMkeys.png)
+![Security Credentials](assets/Week0_IAMKeys.png)
 
 ### Set Env Vars
 I was able to successfully set my AWS credentials and even have gitpod save the environment variables. I dont have to look up my credentials everytime I open my gitpod workspace.
